@@ -49,6 +49,21 @@ export const userData = [
   },
 ];
 
+export const productData = [
+  {
+    name: "Jan",
+    Sales: 4000,
+  },
+  {
+    name: "Feb",
+    Sales: 3000,
+  },
+  {
+    name: "Mar",
+    Sales: 2000,
+  },
+];
+
 export const userRows = [
   {
     id: 1,
@@ -139,5 +154,88 @@ export const userRows = [
     email: "jon@gmail.com",
     status: "active",
     transaction: "$129.00",
+  },
+];
+
+export const productRows = [
+  {
+    id: 1,
+    name: "Apple Airpods",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+    stock: "124",
+    status: "active",
+    price: "$129.00",
+  },
+  {
+    id: 2,
+    name: "Apple Airpods",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+    stock: "124",
+    status: "active",
+    price: "$129.00",
+  },
+  {
+    id: 3,
+    name: "Apple Airpods",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+    stock: "124",
+    status: "active",
+    price: "$129.00",
+  },
+  {
+    id: 4,
+    name: "Apple Airpods",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+    stock: "124",
+    status: "active",
+    price: "$129.00",
+  },
+  {
+    id: 5,
+    name: "Apple Airpods",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+    stock: "124",
+    status: "active",
+    price: "$129.00",
+  },
+  {
+    id: 6,
+    name: "Apple Airpods",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+    stock: "124",
+    status: "active",
+    price: "$129.00",
+  },
+  {
+    id: 7,
+    name: "Apple Airpods",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+    stock: "124",
+    status: "active",
+    price: "$129.00",
+  },
+  {
+    id: 8,
+    name: "Apple Airpods",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+    stock: "124",
+    status: "active",
+    price: "$129.00",
+  },
+  {
+    id: 9,
+    name: "Apple Airpods",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+    stock: "124",
+    status: "active",
+    price: "$129.00",
+  },
+  {
+    id: 10,
+    name: "Apple Airpods",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+    stock: "124",
+    status: "active",
+    price: "$129.00",
   },
 ];
